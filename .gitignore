@@ -1,0 +1,17 @@
+# Python
+__psycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+env/
+venv/
+.env
+
+# uv environment & cache
+.uv/
+uv.lock
+.cache/
